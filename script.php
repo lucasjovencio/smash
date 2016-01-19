@@ -84,7 +84,7 @@
 				$n = query('match (n:pessoa) return count(n)'); 
 				foreach ($n as $c){
 					$cont = $c['count(n)'];
-					echo("<br><br><br><h1><center>Script Executado, $cont Pessoas registradas e Relacionadas.</h1></center>");
+					echo("<br><br><br><h1><center>Script Executado, $cont Pessoas Registradas e Relacionadas.</h1></center>");
 				}
 			}
 			maestro();
