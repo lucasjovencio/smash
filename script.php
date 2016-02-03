@@ -10,9 +10,9 @@
 			set_time_limit(0);
 			function query($n)
 			{
-				require_once('teste3/query.php');
-				$l = cypher_query($n);
-				return $l;
+				require_once('dependencia/query.php');
+				$retorno = cypher_query($n);
+				return $retorno;
 			}
 			function leitura($texto)
 			{
@@ -40,10 +40,10 @@
 				$countM = count($lista);
 				for ($i = 1; $i <= $countM; $i++) 
 				{
-					$g = $lista[$i];
-					if ($g != "")
+					$nome = $lista[$i];
+					if ($nome != "")
 					{
-						$query2 = ("create (n".$i.":empresa{nome:'".$g."'})");
+						$query2 = ("create (n".$i.":empresa{nome:'".$nome."'})");
 						query($query2);
 					}
 				}
@@ -91,4 +91,3 @@
 		?>
 	</body>
 </html>
-
