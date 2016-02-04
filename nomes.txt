@@ -1,12 +1,13 @@
 Aarão Bensaúde
 Aarão Farias
 Aarão Rodrigues
+Lavínia Marino
+Laís Capiperibe
+Laís Mantas
+Laís Vilas-Boas
+Leandro Capistrano
+Leandro Carrilho
 Abel Barateiro
-Abel Gouvêa
-Abel Pontes
-Abel Pádua
-Abel Trinidad
-Abel Zarco
 Abigail Dourado
 Abigail Guarabira
 Abigail Leitão
@@ -126,26 +127,6 @@ Aline Torrado
 Almeno Carrasco
 Almerinda Branco
 Almerinda Cyrne
-Almerinda Negrão
-Almerinda Pederneiras
-Almerinda Tabalipa
-Almerinda Themes
-Almor Chávez
-Almor Porciúncula
-Almor Silva
-Almor Vilar
-Aluísio Ayres
-Aluísio Bernárdez
-Aluísio Coitinho
-Aluísio Lins
-Alvito Barreto
-Alvito Girón
-Alzira Díaz
-Alzira Lousada
-Alípio Brites
-Alípio Paiacã
-Alípio Quinterno
-Alípio Veleda
 Amadeu Aragón
 Amadeu Villalobos
 Amanda Cairu
@@ -1323,8 +1304,6 @@ Gustavo Villégas
 Gustavo Zagallo
 Guterre Chamusca
 Guterre Álvarez
-Guálter, Walter Liberato
-Guálter, Walter Santana
 Gávio Lobato
 Gávio Quintal
 Helena Amarante
@@ -1472,11 +1451,6 @@ Irani Lagoa
 Irani Rolim
 Irene Carvalhosa
 Irene Durán
-Isaac, Isaque Aragão
-Isaac, Isaque Lousã
-Isaac, Isaque Machado
-Isaac, Isaque Meireles
-Isaac, Isaque Paiva
 Isabel Foquiço
 Isabel Valiente
 Isadora Araripe
@@ -1559,9 +1533,6 @@ Jandaíra Quintanilla
 Jandira Correa
 Jeremias Camacho
 Jeremias Portella
-Jerónimo, Jerônimo Cachão
-Jerónimo, Jerônimo Otero
-Jerónimo, Jerônimo Pimentel
 Joana Dinis
 Joana Pinhal
 Joana Rego
@@ -1661,6 +1632,11 @@ Jónatas Mota
 Jónatas Olivares
 Jónatas Picanço
 Júlia Caiado
+Abel Gouvêa
+Abel Pontes
+Abel Pádua
+Abel Trinidad
+Abel Zarco
 Júlia Campos
 Júlia Canejo
 Júlia Caniça
@@ -1679,12 +1655,6 @@ Lara Quinzeiro
 Laurinda Barretto
 Laurinda Brum
 Lavínia Almada
-Lavínia Marino
-Laís Capiperibe
-Laís Mantas
-Laís Vilas-Boas
-Leandro Capistrano
-Leandro Carrilho
 Leandro Colares
 Leandro Félix
 Leandro Pirajá
@@ -2528,7 +2498,7 @@ Severino Filgueiras
 Severino Paz
 Sidónio Espartero
 Sidónio Mattos
-Sidônio   Félix
+Sidônio Félix
 Silvana Cachão
 Silvana Fiães
 Silvana Fraga
@@ -2822,13 +2792,13 @@ Verónica Frade
 Verónica Marques
 Verónica Talhão
 Verónica Themes
-Verônica   Castillo
-Verônica   Feijó
-Verônica   Póvoas
-Verônica   Remígio
-Verônica   Taperebá
-Verônica   Trindade
-Verônica   Ventura
+Verônica Castillo
+Verônica Feijó
+Verônica Póvoas
+Verônica Remígio
+Verônica Taperebá
+Verônica Trindade
+Verônica Ventura
 Violeta Penteado
 Violeta Rosa
 Virgília Araújo
@@ -2886,10 +2856,10 @@ Xénia Prates
 Xénia Robalo
 Xénia Saldanha
 Xénia Velasques
-Xênia   Alcoforado
-Xênia   Lacerda
-Xênia   Neves
-Xênia   Parahyba
+Xênia Alcoforado
+Xênia Lacerda
+Xênia Neves
+Xênia Parahyba
 Zacarias Jordão
 Zara Matos
 Zara Torres
