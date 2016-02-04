@@ -6,7 +6,6 @@ Petrochina
 Google
 ICBC	
 Bank of China
-Petrobrás	
 Vodafone
 BHP Billiton	
 Rio Tinto
@@ -16,14 +15,12 @@ Novartis
 Royal Dutch Shell
 Total
 Chevron
-Banco Agrícola da China
 Microsoft
 Toyota
 General Electric
 Samsung Group
 Berkshire Hathaway
 BP
-Nestlé
 Bank of America
 IBM
 Citigroup
@@ -34,7 +31,6 @@ JP Morgan Chase	Siemens
 HSBC
 Philip Morris International
 Wal-Mart
-Telefónica
 AT&T
 ConocoPhilips
 Procter & Gamble
