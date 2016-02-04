@@ -38,12 +38,14 @@
 			function padrao($lista)
 			{
 				$countM = count($lista);
+				$query2 = '';
 				for ($i = 1; $i <= $countM; $i++) 
 				{
 					$nome = $lista[$i];
 					if ($nome != "")
 					{
 						$query2 = ("create (n".$i.":empresa{nome:'".$nome."'})");
+
 						query($query2);
 					}
 				}
@@ -64,15 +66,16 @@
 			{
 				$listaEmpresas = padrao(leitura("empresas"));
 				$listaNomes = leitura("nomes");
+				
 				$opcoes = ['Visitou','Trabalhou','Investiu'];
 				$residente = ['Espirito Santo','São Paulo','Rio de Janeiro'];
 				$countN = count($listaNomes);
 				$countM = count($listaEmpresas);
-				for ($i = 0; $i < $countN; $i++) 
+				for ($i = 1; $i <= $countN; $i++) 
 				{
 					$nomePessoa = $listaNomes[$i];
 					$idade = mt_rand(18, 50);
-					$NumEmpresa = mt_rand(0, $countM);
+					$NumEmpresa = mt_rand(1, $countM);
 					$nomeEmpresa = $listaEmpresas[$NumEmpresa];
 					$numOPC = mt_rand(0, 2);
 					$numResi = mt_rand(0, 2);
@@ -85,7 +88,9 @@
 				foreach ($n as $c){
 					$cont = $c['count(n)'];
 					echo("<br><br><br><h1><center>Script Executado, $cont Pessoas Registradas e Relacionadas.</h1></center>");
+				
 				}
+				
 			}
 			maestro();
 		?>
