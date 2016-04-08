@@ -49,7 +49,8 @@
 						query($query2);
 					}
 				}
-				$query = "create (n1:estado{nome:'São Paulo'}),(n2:estado{nome:'Espirito Santo'}),(n3:estado{nome:'Rio de Janeiro'})";
+				$query = "create (n1:estado{nome:'São Paulo'}),(n2:estado{nome:'Espirito Santo'}),(n3:estado{nome:'Rio de Janeiro'}), 
+						  (n4:pais{nome:'Brasil'}) ,(n1)-[:pais]->(n4),(n2)-[:pais]->(n4) , (n3)-[:pais]->(n4)";
 				query($query);
 				return $lista;
 			}
